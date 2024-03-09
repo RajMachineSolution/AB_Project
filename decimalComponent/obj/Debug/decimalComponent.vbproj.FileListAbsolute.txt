@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\obj\Debug\decimalComponent.dbConnComponent.resources
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\obj\Debug\decimalComponent.Resources.resources
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\obj\Debug\decimalComponent.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\obj\Debug\decimalComponent.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\bin\Debug\decimalComponent.dll.config
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\bin\Debug\decimalComponent.dll
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\bin\Debug\decimalComponent.pdb
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\bin\Debug\decimalComponent.xml
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\obj\Debug\decimalComponent.dll
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\obj\Debug\decimalComponent.xml
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\obj\Debug\decimalComponent.pdb
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\obj\Debug\decimalComponent.DUserControl1.resources
+C:\Users\asus\source\repos\decimalComponent\decimalComponent\obj\Debug\decimalComponent.CharUserControl1.resources
